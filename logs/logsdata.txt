@@ -1,0 +1,79 @@
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+ERROR:root:Oops! <class 'FileNotFoundError'> occurred.
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+DEBUG:mysql.connector.connection:new_auth_plugin: caching_sha2_password
+INFO:root:Writing Data to sql Executed Successfully

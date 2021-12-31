@@ -4,7 +4,7 @@ import random
 import mysql.connector as connection
 import sys
 
-logging.basicConfig(filename="logdata17thDec.txt")
+logging.basicConfig(filename="logs/logsdata.txt")
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
@@ -14,30 +14,6 @@ class regionfood:
         self.path = data_path
         random.seed(randomseed)
         self.region = region
-
-    def create_data(self):
-        # Created the Data in CSV 
-        header = ["So_no","Customer","ItemId","Rating"]
-        Rating = [1, 2, 3, 4, 5]
-        itemid = [1,2,3,4,5]
-        customer = [1,2,3,4,5,6,7,8,9,10]
-        data = []
-        rows = []
-        
-        for i in range(10):
-            rows.append([i+1,"Customer"+str(random.choice(customer)),random.choice(itemid),random.choice(Rating)])
-        
-        with open(f'{self.path}/region{self.region}.csv',mode='w', newline="") as csvfile:
-            csvwriter = csv.writer(csvfile)
-            csvwriter.writerow(header)
-            csvwriter.writerows(rows) 
-        
-        self.writedata_to_sql()
-
-    def sqlconnect(self):
-        self.mydb = connection.connect(host="localhost", database = "Restaurant_db",
-                             user="root", passwd = "Welcome@123", use_pure=True)
-        self.mydb_cursor = self.mydb.cursor()
         
     def writedata_to_sql(self):
         self.sqlconnect()
@@ -81,11 +57,11 @@ class regionfood:
 
 if __name__ == '__main__':
 	try:
-	    karnataka_region = regionfood('/home/saif/LFS/cohart-8/17thDecAssignment','Karnataka',50)
+	    karnataka_region = regionfood('/home/saif/LFS/Projects/Userreview_Data_Pipeline_Sqoop_HDFS/datasets','Karnataka',50)
 	    karnataka_region.writedata_to_sql()
-	    Kerala_region = regionfood("/home/saif/LFS/cohart-8/17thDecAssignment","Kerala",0)
+	    Kerala_region = regionfood("/home/saif/LFS/Projects/Userreview_Data_Pipeline_Sqoop_HDFS/datasets","Kerala",0)
 	    Kerala_region.writedata_to_sql()
-	    TamilNadu_region = regionfood("/home/saif/LFS/cohart-8/17thDecAssignment","TamilNadu",33)
+	    TamilNadu_region = regionfood("/home/saif/LFS/Projects/Userreview_Data_Pipeline_Sqoop_HDFS/datasets","TamilNadu",33)
 	    TamilNadu_region.writedata_to_sql()
 	except Exception as e: 
 	    logger.error(f"Oops! {e.__class__} occurred.")
