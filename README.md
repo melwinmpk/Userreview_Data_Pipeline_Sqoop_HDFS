@@ -23,3 +23,9 @@
 <li>Using the Sqoop write the command to Insert Entire Data Base into the HDFS </li>
 <li>Write a common shell script that executes Python and the Sqoop in one file execution</li>
 </ul>
+
+<h3><b>Screenshots</b></h3>
+<img src="https://github.com/melwinmpk/Userreview_Data_Pipeline_Sqoop_HDFS/blob/main/img/execution_part1.PNG?raw=true">
+<img src="https://github.com/melwinmpk/Userreview_Data_Pipeline_Sqoop_HDFS/blob/main/img/execution_part2.PNG?raw=true">
+<img src="https://github.com/melwinmpk/Userreview_Data_Pipeline_Sqoop_HDFS/blob/main/img/SQL_TABLES.PNG?raw=true">
+<img src="https://github.com/melwinmpk/Userreview_Data_Pipeline_Sqoop_HDFS/blob/main/img/HDFS_FILES.PNG?raw=true">
