@@ -1,0 +1,5 @@
+PORT_NO=3306
+USERNAME=root
+OP_DIR=/user/saif/HFS/Input/
+DB_NAME=Restaurant_db
+PASSWORD_FILE = file:///home/saif/LFS/datasets/sqoop.pwd
